@@ -1,0 +1,100 @@
+ARGUMENT 
+A value that appears in a call to a method.
+ATTRIBUTES  
+Parts of a class that contain the current state of objects of that class. The member variables of a class.
+BEHAVIORS 
+ Parts of a class that define what objects of that class can do. The methods within a class.
+CLASS 
+ A list of specifications that define a certain type of object and can be used to create objects of that type.
+COMPILING 
+The process of converting Java code into byte code that can then be understood by the Java interpreter.
+CONSTRUCTOR 
+Methods of a class that define how objects of that class are created.
+EDITOR 
+A software program that allows a programmer to type in code. Modern versions usually make it easy to format the code on the screen.
+INSTANCE 
+ An object of a class.
+METHOD 
+ Sections of code that perform some action defined by a class.
+OBJECT 
+The basic building block of OOP, defined by classes and then instantiated within a program to solve parts of a larger problem.
+OBJECT-ORIENTED PROGRAMMING (OOP) 
+ A style of programming where a programmer takes a large problem and breaks it down into smaller pieces using objects.
+SOURCE CODE 
+The text that a programmer types into the computer and that the Java compiler can convert into byte code.
+CLASS DIAGRAM 
+A visual representation of the relationships between classes.
+COMMENTS  
+Text within source code that is ignored by the compiler and is used to make notes about the workings of the class.
+DRIVER CLASS
+A specialized class whose only purpose is to instantiate the initial objects of a program and start the interactions within.
+IDENTIFIER
+A name given to a variable, method, or class.
+Import 
+Keyword that allows a programmer to access pre-made classes and packages.
+Main
+A method that is the starting point for a program. Every Java program must have one to run, but most objects should not contain one.
+MESSAGE
+Information and instructions passed between objects.
+New 
+Keyword used to create objects.
+PACKAGE 
+A collection of related classes.
+UML 
+Standards used when designing OO systems. It stands for Unified Modeling Language.
+ASCII 
+A standard set of two byte codes which represent characters. It stands for American Standard Code for Information Interchange.
+ASSIGNMENT OPERATOR
+The equal sign (=). It copies the value on the right to the variable on the left.
+boolean 
+A primitive data type that represents either true or false.
+char 
+A primitive data type that represents an ASCII character.
+DECREMENT OPERATOR 
+The operator (--) that decreases the value of a numerical variable by one.
+double
+A primitive data type that represents numbers with a decimal point. It can represent larger numbers and has more precision than float, but it takes up more memory.
+ESCAPE SEQUENCE
+Special characters that are interpreted differently than they appear in code. These are generally used for carriage returns (\n), tabs (\t), and quotes (\") within string literals.
+float
+A primitive data type that represents numbers with a decimal point. It cannot hold numbers as large or as precise as a double, but it takes up less memory.
+INCREMENT OPERATOR
+The operator (++) that increases the value of a numerical variable by one.
+int
+A primitive data type that represents whole numbers.
+MODULUS OPERATOR
+The operator (%) that returns the remainder of dividing the left expression by the right expression.
+PRECEDENCE
+A set of rules that defines in what order operators are evaluated.
+PRIMITIVE DATA TYPE
+Basic items that are not objects.
+RESERVED WORDS
+Words in Java that have special meaning and therefore cannot be used as identifiers.
+STRING LITERAL
+Text enclosed by double quotes.
+TYPE CONVERSION
+A way of changing from one primitive data type to another.
+return
+The keyword used to send a value back to a method's caller.
+SETTERS
+Methods for updating an object's attributes.
+GETTERS
+Methods for obtaining the value of an object's attributes.
+PARAMETER
+The identifier used to handle a passed in value.
+SCOPE
+The area where a variable can be used.
+SIGNATURE
+The unique structure of a class or method name.
+ENCAPSULATION
+The process of hiding data.
+ACCESS SPECIFIER
+The keywords public, private, and protected, which determine how an identifier can be used.
+INSTANCE VARIABLE
+An identifier whose scope is a whole object.
+OVERLOADING
+The process of creating multiple methods of the same name.
+PSEUDOCODE
+A mixture of English and source code.
+TOP DOWN DESIGN
+Starting with a broad concept and breaking it down into smaller and smaller pieces.
